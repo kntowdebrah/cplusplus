@@ -8,7 +8,7 @@
             "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",
             "args": [],
             "stopAtEntry": false,
-            "cwd": "C:/msys64/ucrt64/bin",
+            "cwd": "${workspaceFolder\\cplusplus\\classes\\GradeBook\\GradeBookTest.exe}",
             "environment": [],
             "externalConsole": false,
             "MIMode": "gdb",
